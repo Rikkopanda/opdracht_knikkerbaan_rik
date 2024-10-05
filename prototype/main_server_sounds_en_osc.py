@@ -46,7 +46,6 @@ start_random_sound_with_timer(sounds1, sounds2)
 asyncio.run(init_main())
 
 
-
 # try:
 # 	while True:
 # 		pass
